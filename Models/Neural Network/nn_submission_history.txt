@@ -1,0 +1,11 @@
+First submission: Neural Network w/ no tuning, base SKLearn model
+Training Score: 0.6505
+Kaggle Score: 0.4875, Ranking: ~1579
+
+Second submission: Added early stopping via early_stopping parameter
+Training Score: 0.6670
+Kaggle Score; 0.5730, Ranking: ~1459
+
+Third submission: Optimized alpha value = 0.0001 (default value)
+Going to optimize other parameters
+Training Score: (Not yet submitted)
