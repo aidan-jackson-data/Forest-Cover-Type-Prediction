@@ -1,0 +1,3 @@
+First submission: Logistic Regression w/ C = 10 and penalty = 'l1' from GridSearch
+Training Score: 0.6677
+Kaggle Score: 0.55957, Ranking: 1483
