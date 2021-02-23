@@ -4,8 +4,23 @@ Kaggle Score: 0.4875, Ranking: ~1579
 
 Second submission: Added early stopping via early_stopping parameter
 Training Score: 0.6670
-Kaggle Score; 0.5730, Ranking: ~1459
+Kaggle Score: 0.5730, Ranking: ~1459
 
 Third submission: Optimized alpha value = 0.0001 (default value)
-Going to optimize other parameters
-Training Score: (Not yet submitted)
+Optimized activation function = "logistic"
+Tanh second best, Relu third best, Identity fourth
+Training Score: 0.6584 (likely random that it is lower than before)
+Kaggle Score: 0.4544 (not good)
+
+Fourth submission: Changed activation to "tanh" for sanity check
+Kaggle Score: 0.4691 (still not good)
+
+Fifth submission: Changed activation to default "relu"
+Kaggle Score: 0.5730 (back to original value)
+
+Sixth submission: Changed alpha value to 0.001 for sanity check
+that splitting training data for grid search is reliable
+Kaggle Score: 0.5041
+
+Seventh submission: Added second hidden layer of 50 nodes
+Kaggle Score: 0.4040
