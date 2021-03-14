@@ -1,0 +1,13 @@
+First iteration:
+Included KNN, Decision Tree, Logistic Regression, and NN Models
+Voted with equal weight
+Kaggle accuracy: 66.793%
+
+Second iteration:
+Included NB Model
+Voted with equal weight
+Kaggle accuracy: 62.337% 
+
+Third iteration:
+Removed NB from voting, allowed KNN to vote twice
+Kaggle accuracy: 71.950%
