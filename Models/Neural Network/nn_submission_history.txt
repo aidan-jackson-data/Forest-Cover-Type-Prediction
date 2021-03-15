@@ -33,3 +33,21 @@ Kaggle Score: 0.55632
 
 10th: 7 hidden layers, 100 nodes each
 Kaggle Score: 0.61680
+
+11th: 10 hidden layers, 100 nodes each
+Kaggle Score: 0.65660
+
+12th: 12 hidden layers, 100 nodes each
+Kaggle Score: 0.61655
+
+13th: 11 hidden layers, 100 nodes each
+Kaggle Score: 0.58350
+
+14th: 9 hidden layers, 100 nodes each
+Kaggle Score: 0.60982
+
+15th: 8 hidden layers, 100 nodes each
+Kaggle Score: 0.59244
+
+16th: 6 hidden layers, 100 nodes each
+Kaggle Score: 0.54634
