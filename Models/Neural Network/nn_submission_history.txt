@@ -24,3 +24,12 @@ Kaggle Score: 0.5041
 
 Seventh submission: Added second hidden layer of 50 nodes
 Kaggle Score: 0.4040
+
+8th submission: 5 hidden layers, 100 nodes each
+Kaggle Score: 0.56091
+
+9th Submission: 3 hidden layers, 100 nodes each
+Kaggle Score: 0.55632
+
+10th: 7 hidden layers, 100 nodes each
+Kaggle Score: 0.61680
