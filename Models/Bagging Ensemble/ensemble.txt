@@ -11,3 +11,8 @@ Kaggle accuracy: 62.337%
 Third iteration:
 Removed NB from voting, allowed KNN to vote twice
 Kaggle accuracy: 71.950%
+
+4th iteration:
+Updated NN model
+Kaggle accuracy: 72.655%
+Leaderboard ~1071
