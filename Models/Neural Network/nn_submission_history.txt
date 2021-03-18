@@ -51,3 +51,34 @@ Kaggle Score: 0.59244
 
 16th: 6 hidden layers, 100 nodes each
 Kaggle Score: 0.54634
+
+17th: 10 hidden layers, 50 nodes each
+Kaggle Score: 0.60289
+
+18th: Hidden layer like (100, 100, 60, 30, 4, 30, 60, 80, 100, 100)
+Kaggle Score: 0.48807
+
+19th: 10 hidden layers, 100 nodes each
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 1
+Kaggle Score: 0.65298
+
+20th: 10 hidden layers, 100 nodes each
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+Kaggle Score: 0.70259
+
+21st: 10 hidden layers, 100 nodes each
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 5
+Kaggle Score: 0.70016
+
+22nd: 10 hidden layers, 100 nodes each
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 5
+Kaggle Score: 0.69958
+
+23rd: 10 hidden layers, 100 nodes each, random_state = 1
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+Kaggle Score: 0.71635
