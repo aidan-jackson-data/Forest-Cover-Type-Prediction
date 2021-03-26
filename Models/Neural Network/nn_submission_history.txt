@@ -82,3 +82,9 @@ Kaggle Score: 0.69958
 Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
 frac = 3, random state = 1
 Kaggle Score: 0.71635
+
+24th: 10 hidden layers, 100 nodes each, random_state = 1
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+Added hydrology ratio feature
+Kaggle Score: 0.69651
