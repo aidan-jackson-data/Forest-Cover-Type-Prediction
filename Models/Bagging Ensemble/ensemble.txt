@@ -6,28 +6,44 @@ Kaggle accuracy: 66.793%
 Second iteration:
 Included NB Model
 Voted with equal weight
+(Total votes: KNN, DT, Log, NN, NB)
 Kaggle accuracy: 62.337% 
 
 Third iteration:
 Removed NB from voting, allowed KNN to vote twice
+(Total votes: KNN, KNN, DT, Log, NN)
 Kaggle accuracy: 71.950%
 
 4th iteration:
 Updated NN model
+(Total votes: KNN, KNN, DT, Log, NN)
 Kaggle accuracy: 72.655%
 Leaderboard ~1071
 
 5th iteration:
 Updated NN model
+(Total votes: KNN, KNN, DT, Log, NN)
 Kaggle accuracy: 75.014%
 Leaderboard ~842
 
 5th iteration:
 Had NN vote twice
+(Total votes: KNN, KNN, DT, Log, NN, NN)
 Kaggle accuracy: 75.653%
 Leaderboard ~629
 
 6th iteration:
 Removed DT from voting
+(Total votes: KNN, KNN, Log, NN, NN)
 Kaggle accuracy: 74.204%
 
+7th iteration:
+Re-ran 5th iteration for validation
+(Total votes: KNN, KNN, DT, Log, NN, NN)
+Kaggle accuracy: 74.992% 
+a little lower for some reason
+
+8th iteration:
+Trained DT on bootstrapped data
+(Total votes: KNN, KNN, DT, Log, NN, NN)
+Kaggle accuracy: 74.950%
