@@ -4,3 +4,9 @@
 
 # pesky mac files
 .DS_Store
+
+# large csv files
+/Data/Normalized Data/boot_normalized_test_data.csv
+/Data/Normalized Data/boot_normalized_training_data.csv
+/Data/Normalized Data/normalized_test_data.csv
+/Data/Normalized Data/normalized_training_data.csv
