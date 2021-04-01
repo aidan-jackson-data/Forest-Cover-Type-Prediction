@@ -1,0 +1,15 @@
+First submission:  Decision Trees with Max Depth of 25
+Training Score: 0.9995
+Kaggle Score: 0.59266
+
+Second submission:  Decision Trees with AdaBoost and Max Depth of 20
+Training Score: 1.0
+Kaggle Score: 0.69381
+
+First submission:  Random Forest Classifier
+Training Score: .8543
+Kaggle Score: 0.71587
+
+First submission:  Extra Trees Classifier
+Training Score: 0.8525
+Kaggle Score: 0.72549
