@@ -1,15 +1,36 @@
 First submission:  Decision Trees with Max Depth of 25
-Training Score: 0.9995
-Kaggle Score: 0.59266
+Training Score: 0.80535
+Kaggle Score: 0.65796
 
 Second submission:  Decision Trees with AdaBoost and Max Depth of 20
-Training Score: 1.0
-Kaggle Score: 0.69381
+Boosted Model Score:  0.8741071428571429
+Boosted Decision Tree 10-Fold Cross Validation Scores:
+[0.6875     0.625      0.58928571 0.65178571 0.65178571 0.66071429
+ 0.70535714 0.57142857 0.66964286 0.65178571]
+Mean:  0.6464285714285715
+Kaggle Score: 0.74566
 
-First submission:  Random Forest Classifier
-Training Score: .8543
-Kaggle Score: 0.71587
+Third submission:  Random Forest Classifier
+Random Forest Score:  0.8651785714285715
+Random Forest 10-Fold Cross Validation Scores:
+[0.73214286 0.76785714 0.75892857 0.69642857 0.70535714 0.76785714
+ 0.76785714 0.72321429 0.71428571 0.80357143]
+Mean:  0.7437500000000001
+Kaggle Score: 0.73459
 
-First submission:  Extra Trees Classifier
-Training Score: 0.8525
-Kaggle Score: 0.72549
+Forth submission:  Extra Trees Classifier
+Extra Trees Score:  0.8839285714285714
+Random Forest 10-Fold Cross Validation Scores:
+[0.75       0.77678571 0.75892857 0.69642857 0.75       0.79464286
+ 0.75892857 0.76785714 0.78571429 0.80357143]
+Mean:  0.7642857142857143
+Kaggle Score: 0.75287
+
+
+Fifth submission: Random Forest w/ Boosting
+Boosted Random Forest Score:  0.8705357142857143
+Boosted Random Forest 10-Fold Cross Validation Scores:
+[0.70535714 0.76785714 0.75       0.72321429 0.70535714 0.75892857
+ 0.75892857 0.75892857 0.74107143 0.8125    ]
+Mean:  0.7482142857142857
+Kaggle Score: 0.74753
