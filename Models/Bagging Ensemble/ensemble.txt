@@ -47,3 +47,9 @@ a little lower for some reason
 Trained DT on bootstrapped data
 (Total votes: KNN, KNN, DT, Log, NN, NN)
 Kaggle accuracy: 74.950%
+
+9th iteration:
+Updated DT and had it vote twice
+(Total votes: KNN, KNN, DT, DT, Log, NN, NN)
+Kaggle accuracy: 76.125%
+Leaderboard ~521
