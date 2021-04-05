@@ -53,3 +53,21 @@ Updated DT and had it vote twice
 (Total votes: KNN, KNN, DT, DT, Log, NN, NN)
 Kaggle accuracy: 76.125%
 Leaderboard ~521
+
+10 iteration:
+Updated NN and DT data
+(Total votes: KNN, KNN, DT, DT, Log, NN, NN)
+Kaggle accuracy: 76.669%
+Leaderboard ~460
+
+11th iteration:
+Changed total votes
+(Total votes: KNN, DT, DT, Log, NN)
+Kaggle accuracy: 77.737%
+Leaderboard ~369
+
+12th iteration:
+Changed total votes
+(Total votes: KNN, DT, DT, NN)
+Kaggle accuracy: 78.736%
+Leaderboard ~308
