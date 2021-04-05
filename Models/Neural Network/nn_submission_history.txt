@@ -1,3 +1,5 @@
+**** indicates current best performer, accounting for replicability
+
 First submission: Neural Network w/ no tuning, base SKLearn model
 Training Score: 0.6505
 Kaggle Score: 0.4875, Ranking: ~1579
@@ -88,3 +90,15 @@ Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
 frac = 3, random state = 1
 Added hydrology ratio feature
 Kaggle Score: 0.69651
+
+25: 10 hidden layers, 100 nodes each, random_state = 1
+Used dimension reduced data
+Kaggle Score: 0.55
+
+25: 10 hidden layers, 100 nodes each, random_state = 1 ****
+New features included only average hydrology and hillshade features
+Kaggle Score: 0.70178
+
+26th: 10 hidden layers, 100 nodes each, random_state = 1
+Excluded new features for test
+Kaggle score: 0.68543
