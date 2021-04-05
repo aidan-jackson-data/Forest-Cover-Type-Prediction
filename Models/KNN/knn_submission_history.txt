@@ -1,0 +1,14 @@
+1st: K = 1, Euclidean distance
+Full training dataset
+Kaggle accuracy = 71.016%
+
+2nd: K = 1, Euclidean distance
+Subsampled data, random_state = 1, frac = 0.8
+Kaggle accuracy = 70.074%
+
+3rd: K = 1, Euclidean distance
+Full training dataset
+Added total distance to hydrology +
+average hillshade features
+Kaggle accuracy = 70.259%
+
