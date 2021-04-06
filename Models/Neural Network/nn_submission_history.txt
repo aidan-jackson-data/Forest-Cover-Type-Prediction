@@ -92,13 +92,50 @@ Added hydrology ratio feature
 Kaggle Score: 0.69651
 
 25: 10 hidden layers, 100 nodes each, random_state = 1
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
 Used dimension reduced data
 Kaggle Score: 0.55
 
-25: 10 hidden layers, 100 nodes each, random_state = 1 ****
+25: 10 hidden layers, 100 nodes each, random_state = 1
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
 New features included only average hydrology and hillshade features
 Kaggle Score: 0.70178
 
 26th: 10 hidden layers, 100 nodes each, random_state = 1
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
 Excluded new features for test
 Kaggle score: 0.68543
+
+27th: 9 hidden layers, 100 nodes each, random_state = 1 
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+New features included only average hydrology and hillshade features
+Kaggle Score: 0.70949
+
+28th: 8 hidden layers, 100 nodes each, random_state = 1 
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+New features included only average hydrology and hillshade features
+Kaggle Score: 0.69878
+
+29th: 9 hidden layers, 100 nodes each, random_state = 1 
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+New features included average hydrology, hillshade features, and fixed aspect
+Kaggle Score: 0.70975
+
+30th: 9 hidden layers, 100 nodes each, random_state = 1 ****
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+New features included average hydrology, hillshade features, and fixed aspect (dropped old aspect)
+Kaggle Score: 0.72080
+
+31st: 9 hidden layers, 100 nodes each, random_state = 1 
+Used bootstrapped training data of classes like [4, 5, 1, 1, 1, 1, 1]
+frac = 3, random state = 1
+New features included average hydrology, hillshade features, and fixed aspect 
+Dropped old aspect and subdaily hillshade features
+Kaggle Score: 0.66356
