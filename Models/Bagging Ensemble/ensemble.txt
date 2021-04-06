@@ -71,3 +71,20 @@ Changed total votes
 (Total votes: KNN, DT, DT, NN)
 Kaggle accuracy: 78.736%
 Leaderboard ~308
+
+13th iteration: 
+Updated NN model + features
+(Total votes: KNN, DT, DT, NN)
+Kaggle accuracy: 
+Leaderboard 78.814%
+Leaderboard ~297
+
+14th iteration:
+Updated KNN and DT features
+(Total votes: KNN, DT, DT, NN)
+Kaggle accuracy: 78.618%
+
+15th iteration: ****
+Reverted DT features
+(Total votes: KNN, DT, DT, NN)
+Kaggle accuracy: 78.814%
