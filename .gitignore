@@ -10,3 +10,5 @@
 /Data/Normalized Data/boot_normalized_training_data.csv
 /Data/Normalized Data/normalized_test_data.csv
 /Data/Normalized Data/normalized_training_data.csv
+/Models/Neural Network/nn_test_data.csv
+/Models/KNN/knn_test_data.csv
