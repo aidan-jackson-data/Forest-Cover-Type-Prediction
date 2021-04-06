@@ -12,3 +12,8 @@ Added total distance to hydrology +
 average hillshade features
 Kaggle accuracy = 70.259%
 
+4th: K = 1, Euclidean distance
+Full training dataset
+Replaced Aspect feature
+Kaggle accuracy = 71.152%
+
