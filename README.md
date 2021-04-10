@@ -3,7 +3,7 @@ Final-Project---Forest-Cover-Type-Prediction
 
 <img align="right" width="180" src="./images/berkeley.png"/>
 
-#### Authors: [Aidan Jackson](https://github.com/aidan-jackson-data) | [Andi Morey](https://github.com/andimorey) | [Naga Chandrasekaran](https://github.com/nagachandrasekaran) | [Scott Gatzemeier](https://github.com/sngatzemeier) | 
+#### Authors: [Aidan Jackson](https://github.com/aidan-jackson-data) | [Andi Morey Peterson](https://github.com/andimorey) | [Naga Chandrasekaran](https://github.com/nagachandrasekaran) | [Scott Gatzemeier](https://github.com/sngatzemeier) | 
 #### Instructor: D. Schioberg, PhD <br> 
 U.C. Berkeley, Masters in Information & Data Science program - [datascience@berkeley](https://datascience.berkeley.edu/) 
 
@@ -20,6 +20,7 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
   |Folder | File | Description |
   |:----|:----|:------------|
   |.. | [207-final-notebook.ipynb](207-final-notebook.ipynb) | Jupyter Notebook containing the final write up of our report.|
+  |Models | [Individual Model Notebooks](/Models/) | Folder containing individual models and their respective notebooks|
   |presentations | [Midterm_Pres_Forest_Cover_Type_Prediction](/presentation/Midterm_Pres_Forest_Cover_Type_Prediction.pdf) | Midterm presentation of EDA and initial models|
   |data | [covtype.csv](covtype.csv) | Raw Dataset containing test and training data, Number of Records: 581012 and Number of Features: 55|
   |data | [test.csv](test.csv) | Test dataset, Number of Records: 565892 and Number of Features: 55 |
