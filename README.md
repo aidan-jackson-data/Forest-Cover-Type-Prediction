@@ -8,3 +8,29 @@ Final-Project---Forest-Cover-Type-Prediction
 U.C. Berkeley, Masters in Information & Data Science program - [datascience@berkeley](https://datascience.berkeley.edu/) 
 
 Spring 2021, W207 - Machine Learning - Wed. 6:30pm PDT
+
+## Description
+
+This repo contains itterative solutions (including a final solution) for the [Kaggle Forest Cover Typer Prediction](https://www.kaggle.com/c/forest-cover-type-prediction) challenge, developed by Aidan Jackson, Andi Morey, Naga Chandrasekaran, and Scott Gatzemeier.  The goal of this project is to classify trees in four different wilderness areas of the Roosevelt National Forest in Northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices. Accurate results of a successful model will allow US Forest Service (USFS) to predict the predominant cover type trees to plant in reforestation efforts of the 800,000 acres in the Roosevelt National Forest.  
+
+Our solution leverages a variety of modeling techniques.  Base models were developing using K-Nearest Neighbors, Naive-Bayes, Logistic Regression, Decision Tree, and Neural Networks.  These models were itteratively improved independently through data cleansing/formating, feature engineering, and hyperparameter tuning.  These models were then leveraged to build an ensemble model for our final results.
+
+#### Highlight of key files included in this repository:
+
+  |Folder | File | Description |
+  |:----|:----|:------------|
+  |.. | [207-final-notebook.ipynb](207-final-notebook.ipynb) | Jupyter Notebook containing the final write up of our report.|
+  |presentations | [Midterm_Pres_Forest_Cover_Type_Prediction](/presentation/Midterm_Pres_Forest_Cover_Type_Prediction.pdf) | Midterm presentation of EDA and initial models|
+  |data | [covtype.csv](covtype.csv) | Raw Dataset containing test and training data, Number of Records: 581012 and Number of Features: 55|
+  |data | [test.csv](test.csv) | Test dataset, Number of Records: 565892 and Number of Features: 55 |
+  |data | [train.csv](train.csv) | Dataset used to train models, Number of Records: 15120 and Number of Features: 56|
+
+> Add more after complete
+  
+  ## Performance 
+  
+> Section to be updated when we are complete
+  
+  ## 
+  
+  
