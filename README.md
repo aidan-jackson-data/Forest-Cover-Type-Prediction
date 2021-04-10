@@ -7,7 +7,7 @@ Final-Project---Forest-Cover-Type-Prediction
 #### Instructor: D. Schioberg, PhD <br> 
 U.C. Berkeley, Masters in Information & Data Science program - [datascience@berkeley](https://datascience.berkeley.edu/) 
 
-Spring 2021, W207 - Machine Learning - Wed. 6:30pm PDT
+Spring 2021, W207 - Machine Learning - Tue. 6:30pm PDT
 
 ## Description
 
@@ -42,6 +42,6 @@ The study area includes four wilderness areas located in the Roosevelt National 
 > 6. Douglas-fir
 > 7. Krummholz
 
-The training set (15120 observations) contains both features and the Cover_Type. The test set contains only the features. You must predict the Cover_Type for every row in the test set (565892 observations).
+The training set (15120 observations) contains both features and the Cover_Type. The test set contains only the features. The challenge was to predict the Cover_Type for every row in the test set (565892 observations).
   
   
