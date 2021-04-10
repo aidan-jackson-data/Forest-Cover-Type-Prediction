@@ -7,7 +7,7 @@ Final-Project---Forest-Cover-Type-Prediction
 #### Instructor: D. Schioberg, PhD <br> 
 U.C. Berkeley, Masters in Information & Data Science program - [datascience@berkeley](https://datascience.berkeley.edu/) 
 
-Spring 2021, W207 - Machine Learning - Wed. 6:30pm PDT
+Spring 2021, W207 - Machine Learning - Tue. 6:30pm PDT
 
 ## Description
 
