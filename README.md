@@ -18,7 +18,7 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
 #### Highlight of key files included in this repository:
 
   |Folder | File | Description |
-  |:----|:----|:------------|
+  |:------|:-------|:------------|
   |.. | [207-final-notebook.ipynb](207-final-notebook.ipynb) | Jupyter Notebook containing the final write up of our report.|
   |Models | [Individual Model Notebooks](/Models/) | Folder containing individual models, including their respective notebooks and results|
   |Models/Bagging Ensemble | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
