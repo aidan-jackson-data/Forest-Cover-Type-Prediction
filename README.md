@@ -36,8 +36,12 @@ Tuned & Featured Engineered Model Results
 | Naive Bayes | 42 | 42 |
 | Logistic Regression | 40 | 59 |
 | Decision Tree | 66 | 77 |
-| Neural Network | 44 | 71 |
-|Tie Breaker| - | 71 |
+| Neural Network | 35 | 72 |
+|Tie Breaker| - | 72 |
+
+### Final Ensemble Kaggle Accuracy: 79.579%
+#### Best Leaderboard Position: 197 / 1693
+> The final ensemble is found to have an accuracy almost to 80%. With this best accuracy, the final leaderboard position would have been 197 out of 1693 had this team entered, breaking the top 15%.
  
   ## Data and Challenge Description
 The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. We were asked to predict an integer classification for the forest cover type. The seven types are:
