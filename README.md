@@ -22,6 +22,15 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
   |.. | [207-final-notebook.ipynb](207-final-notebook.ipynb) | Jupyter Notebook containing the final write up of our report.|
   |Models | [Individual Model Notebooks](/Models/) | Folder containing individual models, including their respective notebooks and results|
   |Models/Bagging Ensemble | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/Decision Trees | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/Decision Trees | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/Decision Trees | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/GMM | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/KNN | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/Logistic Regression | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/Naive Bayes | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/Neural Network | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
+  |Models/PCA | [BaggingEnsemble.ipynb](/Models/Bagging%20Ensemble/BaggingEnsemble.ipynb)
   |EDA | [Individual EDA Notebooks](/EDA/) | Exploratory Data Analysis notebooks to help with model hyperparameter tuning and feature engineering
   |presentations | [Midterm_Pres_Forest_Cover_Type_Prediction](/presentation/Midterm_Pres_Forest_Cover_Type_Prediction.pdf) | Midterm presentation of EDA and initial models|
   |data | [covtype.csv](covtype.csv) | Raw Dataset containing test and training data, Number of Records: 581012 and Number of Features: 55|
