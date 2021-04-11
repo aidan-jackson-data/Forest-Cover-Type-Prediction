@@ -29,7 +29,15 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
  
   ## Performance 
   
-> Section to be updated when we are complete
+Tuned & Featured Engineered Model Results
+|Model|Kaggle Accuracy, Before (%)|Kaggle Accuracy, After (%)|
+|:-----:|:----:|:----:|
+|KNN| 63 | 71 |
+|NB| 42 | 42 |
+|LR| 40 | 59 |
+|DT| 66 | 77 |
+|NN| 44 | 71 |
+|Tie Breaker| - | 71 |
  
   ## Data and Challenge Description
 The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. We were asked to predict an integer classification for the forest cover type. The seven types are:
