@@ -32,11 +32,11 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
 Tuned & Featured Engineered Model Results
 |Model|Kaggle Accuracy, Before (%)|Kaggle Accuracy, After (%)|
 |:-----:|:----:|:----:|
-|KNN| 63 | 71 |
-|NB| 42 | 42 |
-|LR| 40 | 59 |
-|DT| 66 | 77 |
-|NN| 44 | 71 |
+| K-Nearist Neighbor | 63 | 71 |
+| Naive Bayes | 42 | 42 |
+| Logistic Regression | 40 | 59 |
+| Decision Tree | 66 | 77 |
+| Neural Network | 44 | 71 |
 |Tie Breaker| - | 71 |
  
   ## Data and Challenge Description
