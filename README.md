@@ -39,8 +39,8 @@ Tuned & Featured Engineered Model Results
 | Neural Network | 35 | 72 |
 |Tie Breaker| - | 72 |
 
-###Final Ensemble Kaggle Accuracy: 79.579%¶
-> Best Leaderboard Position: 197 / 1693
+### Final Ensemble Kaggle Accuracy: 79.579%
+#### Best Leaderboard Position: 197 / 1693
 > The final ensemble is found to have an accuracy almost to 80%. With this best accuracy, the final leaderboard position would have been 197 out of 1693 had this team entered, breaking the top 15%.
  
   ## Data and Challenge Description
