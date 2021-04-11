@@ -20,7 +20,7 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
   |Folder | File | Description |
   |:------|:-------|:------------|
   |.. | [207-final-notebook.ipynb](207-final-notebook.ipynb) | Jupyter Notebook containing the final write up of our report.|
-  |Models | [Individual Model Notebooks](/Models/) | Folder containing principal component analysis, individual model testing and ensemble model.  Each folder include the respective notebooks and results.  Models test include: Naive Bayes, Logistic Regression, Neural Network, Decision Trees, K-Nearist Neighbor, Gaussian Mixture Models, and finally the bagging ensemble. |
+  |Models | [Individual Model Notebooks](/Models/) | Folder containing principal component analysis, individual model testing and ensemble model.  Each folder include the respective notebooks and results.  Models test include: Naive Bayes, Logistic Regression, Neural Network, Decision Trees, K-Nearest Neighbor, Gaussian Mixture Models, and finally the bagging ensemble. |
   |EDA | [Individual EDA Notebooks](/EDA/) | Exploratory Data Analysis notebooks to help with model hyperparameter tuning and feature engineering
   |presentations | [Midterm_Pres_Forest_Cover_Type_Prediction](/presentation/Midterm_Pres_Forest_Cover_Type_Prediction.pdf) | Midterm presentation of EDA and initial models|
   |data | [covtype.csv](covtype.csv) | Raw Dataset containing test and training data, Number of Records: 581012 and Number of Features: 55|
@@ -29,7 +29,15 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
  
   ## Performance 
   
-> Section to be updated when we are complete
+Tuned & Featured Engineered Model Results
+|Model|Kaggle Accuracy, Before (%)|Kaggle Accuracy, After (%)|
+|:-----:|:----:|:----:|
+| K-Nearest Neighbor | 63 | 71 |
+| Naive Bayes | 42 | 42 |
+| Logistic Regression | 40 | 59 |
+| Decision Tree | 66 | 77 |
+| Neural Network | 44 | 71 |
+|Tie Breaker| - | 71 |
  
   ## Data and Challenge Description
 The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. We were asked to predict an integer classification for the forest cover type. The seven types are:
