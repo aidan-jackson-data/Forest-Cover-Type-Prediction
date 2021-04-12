@@ -22,7 +22,8 @@ Our solution leverages a variety of modeling techniques.  Base models were devel
   |.. | [207-final-notebook.ipynb](207-final-notebook.ipynb) | Jupyter Notebook containing the final write up of our report.|
   |Models | [Individual Model Notebooks](/Models/) | Folder containing principal component analysis, individual model testing and ensemble model.  Each folder include the respective notebooks and results.  Models test include: Naive Bayes, Logistic Regression, Neural Network, Decision Trees, K-Nearest Neighbor, Gaussian Mixture Models, and finally the bagging ensemble. |
   |EDA | [Individual EDA Notebooks](/EDA/) | Exploratory Data Analysis notebooks to help with model hyperparameter tuning and feature engineering
-  |presentations | [Midterm_Pres_Forest_Cover_Type_Prediction](/presentation/Midterm_Pres_Forest_Cover_Type_Prediction.pdf) | Midterm presentation of EDA and initial models|
+  |presentations | [Midterm_Pres_Forest_Cover_Type_Prediction](/presentations/Midterm_Pres_Forest_Cover_Type_Prediction.pdf) | Midterm presentation of EDA and initial models|
+  |presentations | [Final Presentation - Cover Type Prediction](/presentations/W207%20Final%20Report_%20Forest%20Cover%20Type%20Prediction.pdf) | Final Presentaion with Ensemble Model |
   |data | [covtype.csv](covtype.csv) | Raw Dataset containing test and training data, Number of Records: 581012 and Number of Features: 55|
   |data | [test.csv](test.csv) | Test dataset, Number of Records: 565892 and Number of Features: 55 |
   |data | [train.csv](train.csv) | Dataset used to train models, Number of Records: 15120 and Number of Features: 56|
