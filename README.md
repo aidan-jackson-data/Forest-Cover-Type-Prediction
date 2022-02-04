@@ -11,9 +11,9 @@ Spring 2021, W207 - Machine Learning - Tue. 6:30pm PDT
 
 ## Description
 
-This repo contains itterative solutions (including a final solution) for the [Kaggle Forest Cover Typer Prediction](https://www.kaggle.com/c/forest-cover-type-prediction) challenge, developed by Aidan Jackson, Andi Morey, Naga Chandrasekaran, and Scott Gatzemeier.  The goal of this project is to classify trees in four different wilderness areas of the Roosevelt National Forest in Northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices. Accurate results of a successful model will allow US Forest Service (USFS) to predict the predominant cover type trees to plant in reforestation efforts of the 800,000 acres in the Roosevelt National Forest.  
+This repo contains iterative solutions (including a final solution) for the [Kaggle Forest Cover Typer Prediction](https://www.kaggle.com/c/forest-cover-type-prediction) challenge, developed by Aidan Jackson, Andi Morey, Naga Chandrasekaran, and Scott Gatzemeier.  The goal of this project is to classify trees in four different wilderness areas of the Roosevelt National Forest in Northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices. Accurate results of a successful model will allow US Forest Service (USFS) to predict the predominant cover type trees to plant in reforestation efforts of the 800,000 acres in the Roosevelt National Forest.  
 
-Our solution leverages a variety of modeling techniques.  Base models were developing using K-Nearest Neighbors, Naive-Bayes, Logistic Regression, Decision Tree, and Neural Networks.  These models were itteratively improved independently through data cleansing/formating, feature engineering, and hyperparameter tuning.  These models were then leveraged to build an ensemble model for our final results.
+Our solution leverages a variety of modeling techniques.  Base models were developing using K-Nearest Neighbors, Naive-Bayes, Logistic Regression, Decision Tree, and Neural Networks.  These models were iteratively improved independently through data cleansing/formatting, feature engineering, and hyperparameter tuning.  These models were then leveraged to build an ensemble model for our final results.
 
 #### Highlight of key files included in this repository:
 
@@ -36,9 +36,9 @@ Tuned & Featured Engineered Model Results
 | K-Nearest Neighbor | 63 | 71 |
 | Naive Bayes | 42 | 42 |
 | Logistic Regression | 40 | 59 |
-| Decision Tree | 66 | 77 |
+| Decision Tree | 66 | 75 |
 | Neural Network | 35 | 72 |
-|Tie Breaker| - | 72 |
+|Ensemble| 67 | 79 |
 
 ### Final Ensemble Kaggle Accuracy: 79.579%
 #### Best Leaderboard Position: 197 / 1693

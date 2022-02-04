@@ -4,6 +4,7 @@
 
 # pesky mac files
 .DS_Store
+.Rhistory
 
 # large csv files
 /Data/Normalized Data/boot_normalized_test_data.csv
