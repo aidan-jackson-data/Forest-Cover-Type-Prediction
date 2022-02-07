@@ -14,3 +14,7 @@
 /Models/Neural Network/nn_test_data.csv
 /Models/Neural Network/nn_train_data.csv
 /Models/KNN/knn_test_data.csv
+
+#images
+*.jpeg
+*.png
